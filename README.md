@@ -41,5 +41,4 @@
 ### 🐍 Contribution Snake
 <div align="center">
   <img src="https://raw.githubusercontent.com/Allanlgl2023/Allanlgl2023/dist/snake.svg" alt="Snake game eating my contributions" />
-
 </div>
